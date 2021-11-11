@@ -1,5 +1,5 @@
 # An-Emergency-Room-Simulator
-CS-273-1 Final Project (Fall, 2019)
+CS-273-1 Final Project (Fall, 2019)-Finn McClone, James Holtz, and Spencer Gariano
 
 •	You need to simulate a hospital emergency room located in the town of Simville, population 2000.
 
