@@ -3,8 +3,6 @@ CS-273-1 Final Project (Fall, 2019)
 
 •	You need to simulate a hospital emergency room located in the town of Simville, population 2000.
 
-•	Matt will post a list of names of all residents of said town on the GoogleDrive.
-
 •	Every person in 273ville is equally healthy, but they do occasionally need to go to the emergency room.  
      
      o	I.e. there is equal probability that anyone in town will be admitted into the emergency room as a patient.
