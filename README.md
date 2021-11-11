@@ -11,9 +11,12 @@ CS-273-1 Final Project (Fall, 2019)
 •	Your emergency room is small, but it has a big heart.  It tries to run its operation as efficiently as possible.
 
 •	When a patient arrives at the emergency room, he/she is triaged – that is, the patient is assigned a priority number from 1 to 20, depending on the severity of the illness.  Higher priority values indicate more serious illnesses and are always treated ahead of lower priority illnesses.
-      o	Illnesses with priority 1 to 10 occur approximately 70% of the time with equal probability
-      o	Illnesses with priority 11 to 15 occur approximately 20% of the time with equal probability.
-      o	Illnesses with priority 16 to 20 occur approximately 10% of the time with equal probability.
+     
+     o	Illnesses with priority 1 to 10 occur approximately 70% of the time with equal probability
+     
+     o	Illnesses with priority 11 to 15 occur approximately 20% of the time with equal probability.
+    
+     o	Illnesses with priority 16 to 20 occur approximately 10% of the time with equal probability.
       
 •	The emergency room has 2 categories of caregivers: Doctors and Nurses.
       o	Nurses can treat patients with priority 1 to 10, and doctors can treat patients with priority 1 to 20.
